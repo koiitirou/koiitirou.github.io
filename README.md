@@ -34,4 +34,4 @@
 
 # 問い合わせ先
 本プライバシーポリシーについてご不明な点がある場合は、下記メールアドレスにお問い合わせください。
-koiitirou@gmail.com(<koiitirou@gmail.com>)
+(<koiitirou@gmail.com>)
